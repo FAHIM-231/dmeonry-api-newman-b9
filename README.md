@@ -8,8 +8,8 @@ This is a demo fintech API, which can create user, search update and delete user
 
 ## How to run this project:
  -Clone this project 
-   ```https://github.com/FAHIM-231/dmeonry-api-newman-b9````
--In the source root project,give following command:
- ```npm i```
+  ```https://github.com/FAHIM-231/dmeonry-api-newman-b9````
+-In the source root project, give following command:
+  ```npm i```
 -Give following command to run:
- ```npm start```
+  ```npm start```
