@@ -13,3 +13,5 @@ This is a demo fintech API, which can create user, search update and delete user
   ```npm i```
 - Give following command to run:
   ```npm start```
+![newman-report-b9](https://github.com/FAHIM-231/dmoney-api-newman-b9/assets/49372427/4c09d401-1b8c-4375-ae9f-e129df11432d)
+
